@@ -164,8 +164,8 @@ Para registro e auditoria, as execuções do script são registradas em `/var/lo
 
 ## 👨‍💻 Autores
 
-**Eduardo Gomes Pinho Junior - RM 97919**
-**Gustavo Ferreira Lopes - RM 98887**
-**Pedro Henrique Salvitti - RM 88166**
-**Enzo de Oliveira Cunha - RM 550985**
+- **Eduardo Gomes Pinho Junior - RM 97919**
+- **Gustavo Ferreira Lopes - RM 98887**
+- **Pedro Henrique Salvitti - RM 88166**
+- **Enzo de Oliveira Cunha - RM 550985**
 
