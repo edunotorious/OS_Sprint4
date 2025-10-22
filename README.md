@@ -2,6 +2,8 @@
 
 Este projeto foi desenvolvido para registrar logs de acesso de forma automatizada utilizando **Node.js e Express**, simulando um ambiente real de auditoria e segurança da informação.
 
+**Vídeo explicativo:** https://www.youtube.com/watch?v=KcVtmXM0Vck
+
 ---
 
 ## 🧩 Objetivo do Projeto
