@@ -1,6 +1,6 @@
 # Projeto Node Endpoint Data Logger
 
-Este projeto foi desenvolvido por **Eduardo Gomes** para registrar logs de acesso de forma automatizada utilizando **Node.js e Express**, simulando um ambiente real de auditoria e segurança da informação.
+Este projeto foi desenvolvido para registrar logs de acesso de forma automatizada utilizando **Node.js e Express**, simulando um ambiente real de auditoria e segurança da informação.
 
 ---
 
@@ -162,9 +162,10 @@ Para registro e auditoria, as execuções do script são registradas em `/var/lo
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
-**Eduardo Gomes**  
-Gerente de TI e estudante de Engenharia de Software  
-Disciplina: **Cybersecurity - FIAP (Logs, Auditoria e Segurança da Informação)**  
-Data de conclusão: **22 de outubro de 2025**
+**Eduardo Gomes Pinho Junior - RM 97919**
+**Gustavo Ferreira Lopes - RM 98887**
+**Pedro Henrique Salvitti - RM 88166**
+**Enzo de Oliveira Cunha - RM 550985**
+
